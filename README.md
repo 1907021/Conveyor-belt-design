@@ -3,4 +3,4 @@ This project animates a conveyor belt with an object traveling on it in 3D. The 
 
 ## Acknowledgments
 - This project was done as part of my assignment for my course PME472 (Mine instrumentation and machineries laboratory).
-- Thanks to my instructor, Nadia Mahjabin, for guidance.
+- Thanks to my instructor, Nadia Mahjabin ma'am, for her guidance.
